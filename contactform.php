@@ -8,7 +8,7 @@
 		$message = $_POST['message'];
 
 
-		$mailTo = "dhakchanamoorthy@zohomail.in";
+		$mailTo = "info@dhakchanamoorthy.tech";
 		$headers = "From: ".$mailFrom;
 		$txt = "You received mail from ".$name.".\n\n".$message;
 
